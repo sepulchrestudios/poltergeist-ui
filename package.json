@@ -1,0 +1,38 @@
+{
+  "name": "poltergeist-ui",
+  "version": "1.0.0",
+  "description": "Poltergeist is a CRM that enables mix engineers, studios, and clients to collaborate throughout the project and revision process seamlessly. This is the front-end (UI) portion of it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sepulchrestudios/poltergeist-ui.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "nodejs",
+    "javascript",
+    "typescript",
+    "ui",
+    "frontend",
+    "socket-io",
+    "crm",
+    "poltergeist",
+    "rtk-query"
+  ],
+  "author": "Matthew Fritz <hello@matthewfritz.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sepulchrestudios/poltergeist-ui/issues"
+  },
+  "homepage": "https://github.com/sepulchrestudios/poltergeist-ui#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "socket.io": "^4.8.1"
+  }
+}
